@@ -1,1 +1,1 @@
-# Terraform-CI-CD-Pipeline
+The pipeline will be designed to trigger automatically upon code push to GitHub, and will encompass code analysis, security analysis, testing, and the typical Terraform workflow stages such as initialization, planning, and applying changes. we will be creating an automated CI/CD pipeline for a Terraform project, with a focus on adhering to security and coding best practices.
