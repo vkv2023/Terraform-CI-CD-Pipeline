@@ -21,7 +21,7 @@ variable "volume_size" {
 variable "tags" {
   type = map(string)
   default = {
-    name       = "Pipeline"
+    name       = "test"
     created_by = "vkv2023"
   }
 }
