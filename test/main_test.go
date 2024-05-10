@@ -1,4 +1,4 @@
-package Pipeline
+package test
 
 import (
 	"testing"
